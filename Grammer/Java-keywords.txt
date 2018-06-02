@@ -1,0 +1,23 @@
+برخی از کلمات کلیدی مهم جاوا در امتحان 
+extends 
+Implements
+Interface 
+Class
+Method 
+super.
+this.
+Link
+abstract 
+Object
+string
+system.out.println
+Java.util
+Java.lang
+Java.scanner
+System.in
+new
+Public
+Static
+Main
+Void
+Return

@@ -1,0 +1,15 @@
+Method
+
+Return_type Data type name(){
+                
+               // Structure 
+      }
+      
+      
+      
+  
+Abstract - implements
+
+Public
+
+Static

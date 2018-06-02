@@ -1,0 +1,17 @@
+Class
+
+
+type class name{
+
+        //structure 
+    }
+    
+
+Type :
+1-no attribute 
+2-public
+3-private
+4-protected
+
+
+Extends mishan class ha

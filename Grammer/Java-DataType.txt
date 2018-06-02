@@ -1,0 +1,14 @@
+انواع داده ها در جاوا
+Int
+Float
+Double
+Short
+Long
+Boolean
+Byte
+String
+Char
+Array
+
+Va noe haye dige darim ke be dard emtahan nemikhorand
+
